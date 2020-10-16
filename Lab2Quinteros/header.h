@@ -1,0 +1,12 @@
+void parsePath (char* p[]);
+void prompt ();
+int cuentaCmd(char* argv[], char* input);
+void buscarCmd (char* argv, char* path[], char* archivoCmd);
+void crearProc (char* archivoCmd, char* argv[], int argc, char* paths[]);
+int segPlano (int argc, char* argv[]);
+int redEntrada (char* argV[], char fileIn[]);
+int redSalida (char* argv[], char fileOut[]);
+void obtenerCmdRedir (int entrada, int salida, char* argV[]);
+int pipes(char* argv[], char* argv1[], char* argv2[]);
+void obtenerCmdPipe(char* argV[],char* argv1[], char* argv2[]);
+void execPipe(char* argv1[], char* argv2[], char* paths[]);

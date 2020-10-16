@@ -1,0 +1,48 @@
+
+Hostname: quinteros 
+Fecha: Mon Feb 25 18:53:27 2019
+ 
+CPU - Tipo: GenuineIntel 
+Modelo: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 
+Kernel: Linux version 4.15.0-45-generic  
+Uptime: 3:18:26.84 
+Cantidad de sistemas de archivo soportados por el kernel: 35 
+Tiempo de CPU para usuarios: 0:50:23.23 
+Tiempo de CPU para sistema: 0:16:20.84 
+Tiempo de CPU ocioso:  1D 1:18:40.13 
+Cambios de contexto: 36614500 
+Boot Time: Mon Feb 25 15:35:00 2019 
+Procesos creados: 10454
+Tiempo de CPU para usuarios: 0:50:23.23 
+Tiempo de CPU para sistema: 0:16:20.84 
+Tiempo de CPU ocioso:  1D 1:18:40.13 
+Cambios de contexto: 36614503 
+Boot Time: Mon Feb 25 15:35:00 2019 
+Procesos creados: 10454
+-----------------------------------------------
+Pedidos a disco: 810
+Memoria total: 15906 MB
+Memoria disponible: 10947 MB
+Promedio de carga en el último minuto: 0.080000
+-----------------------------------------------
+Pedidos a disco: 810
+Memoria total: 15906 MB
+Memoria disponible: 10947 MB
+Promedio de carga en el último minuto: 0.070000
+-----------------------------------------------
+Pedidos a disco: 810
+Memoria total: 15906 MB
+Memoria disponible: 10945 MB
+Promedio de carga en el último minuto: 0.070000
+-----------------------------------------------
+Pedidos a disco: 810
+Memoria total: 15906 MB
+Memoria disponible: 10945 MB
+Promedio de carga en el último minuto: 0.150000
+-----------------------------------------------
+Pedidos a disco: 810
+Memoria total: 15906 MB
+Memoria disponible: 10945 MB
+Promedio de carga en el último minuto: 0.150000
+-----------------------------------------------
+
