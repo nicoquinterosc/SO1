@@ -1,5 +1,5 @@
 # Trabajos Prácticos de Sistemas Operativos I
-   * **Trabajo práctico 1** - Sockets de internet en sistemas tipo UNIX
-   * **Trabajo práctico 2** - OpenMP
-   * **Trabajo práctico 3** - Sistemas embebidos
-   * **Trabajo práctico 4** - Sistemas operativos de tiempo real
+   * **TP1** - Sockets de internet en sistemas tipo UNIX
+   * **TP2** - OpenMP
+   * **TP3** - Sistemas embebidos
+   * **TP4** - Sistemas operativos de tiempo real
